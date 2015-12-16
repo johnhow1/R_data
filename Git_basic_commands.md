@@ -68,12 +68,7 @@ Message should be a useful description of the change you have made
  To switch back to the Master branch
  
  
- ###Once you do a Push
- 
- Merging changes back into the original
- Pull request
- 
- This is a feature of Github
+
  
  
  
